@@ -1,0 +1,17 @@
+.app{
+    font-family:sans-serif;
+    font-weight: bold;
+}
+
+.minesweeper{
+    box-shadow:0 0 1px;
+    border-radius:2px;
+    overflow:hidden;
+    float:left;
+    padding:2px;
+    margin:2px;
+}
+
+.clear{
+    clear:both;
+}

@@ -1,0 +1,14 @@
+.cell{
+    width:18px;
+    height:18px;
+    border-radius:2px;
+    margin:2px;
+    float:left;
+    color: tomato;
+}
+
+.covered{
+    background-color: teal;
+    cursor:pointer;
+}
+
